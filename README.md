@@ -3,6 +3,7 @@ An open source solution to air-pollution.
 
 > **Present Status**:  
 >  Paused temporarily. Will resume work in March,2020. If you have any queries mail to : glenzac@gmail.com
+> This is where the full [project](glenzac.wordpress.com/2019/10/16/aerolve-the-oshw-solution-to-air-pollution/) lives.
 
 The UN Sustainable Development Goals (SDG) report 2018 lists making cities and human settlements inclusive, safe, resilient and sustainable as the 11th SDG. According to the report,  in 2016,  91%  of the urban population worldwide were breathing air that did not meet the World Health Organization Air Quality Guidelines value for particulate matter (PM 2.5); more than half were exposed to air pollution levels at least 2.5 times higher than that safety standard. In 2016, an estimated 4.2 million people died as a result of high levels of ambient air pollution. 
 
