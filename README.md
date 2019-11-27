@@ -1,6 +1,9 @@
 # Aerolve
 An open source solution to air-pollution.
 
+> **Present Status**
+> Paused temporarily. Will resume work in March,2020. If you have any queries mail to : glenzac@gmail.com
+
 The UN Sustainable Development Goals (SDG) report 2018 lists making cities and human settlements inclusive, safe, resilient and sustainable as the 11th SDG. According to the report,  in 2016,  91%  of the urban population worldwide were breathing air that did not meet the World Health Organization Air Quality Guidelines value for particulate matter (PM 2.5); more than half were exposed to air pollution levels at least 2.5 times higher than that safety standard. In 2016, an estimated 4.2 million people died as a result of high levels of ambient air pollution. 
 
 Countries around the world are tackling air pollution in different ways. China, for example, is making strides in cleaning up smog-choked skies from years of rapid industrial expansion, partly by closing or canceling coal-fired power plants. In the U.S., California has been a leader in setting emissions standards aimed at improving air quality.  And a variety of efforts aim to bring cleaner cooking options to places where hazardous cookstoves are prevalent. Even though a lot of different steps have been taken to curb the effects of pollution it’s quite visible that an end is nowhere in sight. One single legislation or emission standard is not going to help reduce its effect. This can only be tackled with a series of parallel running solutions which act independently but produce the needed impact. Our solution to tackle this problem involves an outdoor air filtration system that is well distributed throughout urban spaces. These systems along with filtering out pollutants also continuously monitors air quality in it’s near vicinity.
